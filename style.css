@@ -125,6 +125,12 @@
     margin: 0 auto 50px;
 }
 
+.music {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
 .banner h1 {
     font-family: 'Dancing Script',
     cursive;
