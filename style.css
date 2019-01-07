@@ -85,13 +85,13 @@
     75% {
         opacity: 1;
 
-        -webkit-transform: translate(100px, 900px) rotateZ(270deg);
+        -webkit-transform: translate(100px, 1100px) rotateZ(270deg);
     }
 
     100% {
         opacity: 0;
 
-        -webkit-transform: translate(100px, 1000px) rotateZ(360deg);
+        -webkit-transform: translate(100px, 1100px) rotateZ(360deg);
     }
 }
 
@@ -105,13 +105,13 @@
     75% {
         opacity: 1;
 
-        -webkit-transform: translate(100px, 900px) rotateZ(270deg);
+        -webkit-transform: translate(100px, 1000px) rotateZ(270deg);
     }
 
     100% {
         opacity: 0;
 
-        -webkit-transform: translate(150px, 1000px) rotateZ(360deg);
+        -webkit-transform: translate(150px, 1100px) rotateZ(360deg);
     }
 }
 
